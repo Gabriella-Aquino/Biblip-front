@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+html{
+  caret-color: transparent;
+}
